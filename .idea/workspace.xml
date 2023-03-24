@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4dc0709d-4889-4a94-b495-869b48ea1059" name="Changes" comment="New directory lesson_1" />
+    <list default="true" id="4dc0709d-4889-4a94-b495-869b48ea1059" name="Changes" comment="Merged">
+      <change afterPath="$PROJECT_DIR$/lesson_2_(12.03.2023)/task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_2_(12.03.2023)/task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_2_(12.03.2023)/task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678718381168</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Merged">
+      <created>1678719620793</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678719620793</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,7 +115,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="lesson_1_(11.03.2023)" />
+                        <option value="lesson_2_(12.03.2023)" />
                       </list>
                     </value>
                   </entry>
@@ -119,6 +131,7 @@
     <MESSAGE value="First part of homework is added" />
     <MESSAGE value="The last part of homework is added" />
     <MESSAGE value="New directory lesson_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="New directory lesson_1" />
+    <MESSAGE value="Merged" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merged" />
   </component>
 </project>
