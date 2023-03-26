@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4dc0709d-4889-4a94-b495-869b48ea1059" name="Changes" comment="Branch lesson 2 is deleted">
-      <change afterPath="$PROJECT_DIR$/lesson_3_(18.03.2023)/extra_task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_3_(18.03.2023)/extra_task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_3_(18.03.2023)/extra_task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_3_(18.03.2023)/task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_3_(18.03.2023)/task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_3_(18.03.2023)/task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_3_(18.03.2023)/task_4.py" afterDir="false" />
+    <list default="true" id="4dc0709d-4889-4a94-b495-869b48ea1059" name="Changes" comment="Homework of lesson 18.03.2023 is finished">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +54,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Geek Brains/Разработчик/II этап/02. Знакомство с языком Python (семинары)/python_homework"
+    "last_opened_file_path": "D:/Python/gb_project"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -120,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679662838197</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Homework of lesson 18.03.2023 is finished">
+      <created>1679663787850</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679663787850</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,6 +153,7 @@
     <MESSAGE value="Merged" />
     <MESSAGE value="Homework of lesson 12.03.2023 is finished" />
     <MESSAGE value="Branch lesson 2 is deleted" />
-    <option name="LAST_COMMIT_MESSAGE" value="Branch lesson 2 is deleted" />
+    <MESSAGE value="Homework of lesson 18.03.2023 is finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework of lesson 18.03.2023 is finished" />
   </component>
 </project>
