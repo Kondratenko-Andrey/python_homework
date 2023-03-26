@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4dc0709d-4889-4a94-b495-869b48ea1059" name="Changes" comment="Homework of lesson 18.03.2023 is finished">
+    <list default="true" id="4dc0709d-4889-4a94-b495-869b48ea1059" name="Changes" comment="Test 26.03.2023">
+      <change afterPath="$PROJECT_DIR$/lesson_4_(19.03.2023)/task_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +55,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Geek Brains/Разработчик/II этап/02. Знакомство с языком Python (семинары)/python_homework/lesson_3_(18.03.2023)",
+    "last_opened_file_path": "D:/Geek Brains/Разработчик/II этап/02. Знакомство с языком Python (семинары)/python_homework/lesson_4_(19.03.2023)",
     "two.files.diff.last.used.folder": "D:/Geek Brains/Разработчик/II этап/02. Знакомство с языком Python (семинары)/python_homework/lesson_3_(18.03.2023)"
   }
 }]]></component>
@@ -121,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679663787850</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Test 26.03.2023">
+      <created>1679807645495</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679807645495</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,7 +143,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="lesson_3_(18.03.2023)" />
+                        <option value="lesson_4_(19.03.2023)" />
                       </list>
                     </value>
                   </entry>
@@ -155,6 +163,7 @@
     <MESSAGE value="Homework of lesson 12.03.2023 is finished" />
     <MESSAGE value="Branch lesson 2 is deleted" />
     <MESSAGE value="Homework of lesson 18.03.2023 is finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework of lesson 18.03.2023 is finished" />
+    <MESSAGE value="Test 26.03.2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test 26.03.2023" />
   </component>
 </project>
