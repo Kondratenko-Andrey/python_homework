@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4dc0709d-4889-4a94-b495-869b48ea1059" name="Changes" comment="Homework of lesson 19.03.2023 is finished">
-      <change afterPath="$PROJECT_DIR$/lesson_5_(25.03.2023)/task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_5_(25.03.2023)/task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_5_(25.03.2023)/task_26(extra).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_5_(25.03.2023)/task_28(extra).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_5_(25.03.2023)/task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_5_(25.03.2023)/task_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_5_(25.03.2023)/task_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_5_(25.03.2023)/task_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_5_(25.03.2023)/task_7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4dc0709d-4889-4a94-b495-869b48ea1059" name="Changes" comment="Homework of lesson 25.03.2023 is finished" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +58,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Geek Brains\Разработчик\II этап\02. Знакомство с языком Python (семинары)\python_homework\lesson_5_(25.03.2023)" />
       <recent name="D:\Geek Brains\Разработчик\II этап\02. Знакомство с языком Python (семинары)\python_homework\lesson_4_(19.03.2023)" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -147,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679814907839</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Homework of lesson 25.03.2023 is finished">
+      <created>1680271643085</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680271643085</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,6 +180,7 @@
     <MESSAGE value="Homework of lesson 18.03.2023 is finished" />
     <MESSAGE value="Test 26.03.2023" />
     <MESSAGE value="Homework of lesson 19.03.2023 is finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework of lesson 19.03.2023 is finished" />
+    <MESSAGE value="Homework of lesson 25.03.2023 is finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework of lesson 25.03.2023 is finished" />
   </component>
 </project>
