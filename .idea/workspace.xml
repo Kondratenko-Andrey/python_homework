@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4dc0709d-4889-4a94-b495-869b48ea1059" name="Changes" comment="Homework of lesson 25.03.2023 is finished">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4dc0709d-4889-4a94-b495-869b48ea1059" name="Changes" comment="Homework of lesson 01.04.2023 is finished" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680932211565</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Homework of lesson 01.04.2023 is finished">
+      <created>1680932402770</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1680932402770</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,6 +205,7 @@
     <MESSAGE value="Homework of lesson 19.03.2023 is finished" />
     <MESSAGE value="Homework of lesson 26.03.2023 is finished" />
     <MESSAGE value="Homework of lesson 25.03.2023 is finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework of lesson 25.03.2023 is finished" />
+    <MESSAGE value="Homework of lesson 01.04.2023 is finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework of lesson 01.04.2023 is finished" />
   </component>
 </project>
