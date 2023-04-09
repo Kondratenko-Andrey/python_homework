@@ -14,18 +14,17 @@ str(self) - вызывается функциями str, print и format. Воз
 
 
 class Worker:
-    _income = {"wage": 0, "bonus": 0}
 
-    def __init__(self, name, surname, position):
+    def __init__(self, name, surname, position, wage, bonus):
         self.name = name
         self.surname = surname
         self.position = position
+        self._income = {"wage": wage, "bonus": bonus}
 
 
 class Position(Worker):
-    def __init__(self, name, surname, position, income):
-        super().__init__(name, surname, position)
-        self._income = income
+    def __init__(self, name, surname, position, wage, bonus):
+        super().__init__(name, surname, position, wage, bonus)
 
     def get_full_name(self):
         return f'{self.name} {self.surname}'
@@ -38,7 +37,7 @@ class Position(Worker):
         return f'{self.get_full_name()} {self.position} {str(self.get_total_income())}'
 
 
-obj = Position('John', 'Wilson', 'Driver', {'wage': 2000, 'bonus': 500})
+obj = Position('John', 'Wilson', 'Driver', 2000, 500)
 print(obj.get_full_name())
 print(obj.get_total_income())
 print(obj)

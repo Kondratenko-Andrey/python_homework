@@ -19,13 +19,14 @@ length (длина в метрах), width (ширина в метрах).
 
 
 class Road:
+    weight = 25
+    thickness = 0.05
+
     def __init__(self, length, width):
         self._length = length
         self._width = width
 
-    def asphalt_weight(self, weight, thickness):
-        self.weight = weight
-        self.thickness = thickness
+    def asphalt_weight(self):
         res = self._length * self._width * self.weight * self.thickness
         return res
 
@@ -33,4 +34,4 @@ class Road:
 obj = Road(5000, 20)
 
 print(f'Масса асфальта, необходимого для покрытия всего дорожного полотна длинной: {obj._length} м, '
-      f'шириной {obj._width}, равна {obj.asphalt_weight(25, 0.05)} кг')
+      f'шириной {obj._width}, равна {obj.asphalt_weight()} кг')
