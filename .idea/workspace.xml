@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4dc0709d-4889-4a94-b495-869b48ea1059" name="Changes" comment="Corrections and additional assignments of lesson 01.04.2023 are finished.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4dc0709d-4889-4a94-b495-869b48ea1059" name="Changes" comment="workspace 13.04.2023." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +53,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "D:/Python/gb_project",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "two.files.diff.last.used.folder": "D:/Geek Brains/Разработчик/II этап/02. Знакомство с языком Python (семинары)/python_homework/lesson_3_(18.03.2023)"
   }
 }]]></component>
@@ -269,7 +268,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="lesson_7_(01.04.2023)" />
+                        <option value="lesson_8_(02.04.2023)" />
                       </list>
                     </value>
                   </entry>

@@ -1,0 +1,11 @@
+items:
+- copybook
+- pencil
+- rubber
+- line
+items_price:
+  copybook: 5€
+  line: 4€
+  pencil: 2€
+  rubber: 1€
+items_quantity: 6
