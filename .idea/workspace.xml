@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4dc0709d-4889-4a94-b495-869b48ea1059" name="Changes" comment="workspace 13.04.2023." />
+    <list default="true" id="4dc0709d-4889-4a94-b495-869b48ea1059" name="Changes" comment="Homework of lesson 8 (02.04.2023) is finished.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,18 +49,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Python/gb_project",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "two.files.diff.last.used.folder": "D:/Geek Brains/Разработчик/II этап/02. Знакомство с языком Python (семинары)/python_homework/lesson_3_(18.03.2023)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Geek Brains/Разработчик/II этап/02. Знакомство с языком Python (семинары)/python_homework&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;two.files.diff.last.used.folder&quot;: &quot;D:/Geek Brains/Разработчик/II этап/02. Знакомство с языком Python (семинары)/python_homework/lesson_3_(18.03.2023)&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Geek Brains\Разработчик\II этап\02. Знакомство с языком Python (семинары)\python_homework\lesson_8_(02.04.2023)" />
       <recent name="D:\Geek Brains\Разработчик\II этап\02. Знакомство с языком Python (семинары)\python_homework\lesson_7_(01.04.2023)" />
       <recent name="D:\Geek Brains\Разработчик\II этап\02. Знакомство с языком Python (семинары)\python_homework\lesson_6_(26.03.2023)" />
       <recent name="D:\Geek Brains\Разработчик\II этап\02. Знакомство с языком Python (семинары)\python_homework\lesson_5_(25.03.2023)" />
@@ -254,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681010257413</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Homework of lesson 8 (02.04.2023) is finished.">
+      <created>1681401571271</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1681401571271</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -294,6 +304,7 @@
     <MESSAGE value="Homework of lesson 25.03.2023 is finished" />
     <MESSAGE value="Homework of lesson 01.04.2023 is finished" />
     <MESSAGE value="Corrections and additional assignments of lesson 01.04.2023 are finished." />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrections and additional assignments of lesson 01.04.2023 are finished." />
+    <MESSAGE value="Homework of lesson 8 (02.04.2023) is finished." />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework of lesson 8 (02.04.2023) is finished." />
   </component>
 </project>
